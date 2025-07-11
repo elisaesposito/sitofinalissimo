@@ -1,0 +1,16 @@
+
+{
+  "name": "Sorpresa",
+  "short_name": "Sorpresa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8dce2",
+  "theme_color": "#f8dce2",
+  "icons": [
+    {
+      "src": "https://cdn.onesignal.com/sdks/OneSignalSDKFiles/OneSignalLogoBadge.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
